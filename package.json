@@ -3,7 +3,7 @@
   "description": "Ionic Native - Native plugins for ionic apps",
   "peerDependencies": {
     "rxjs": "^6.3.0 || ^6.5.0 || ^7.3.0",
-    "@awesome-cordova-plugins/core": "^5.1.0"
+    "@awesome-cordova-plugins/core": "^6.1.0"
   },
   "repository": {
     "type": "git",
